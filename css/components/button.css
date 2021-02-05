@@ -1,0 +1,13 @@
+/* Your button CSS file */
+.btn-apply {
+	color: white;
+	border-radius: 4px;
+	padding: 10px 15px;
+	font-weight: bolder;
+	background-color: rgba(103, 184, 151, 0.438);
+}
+
+.btn-apply:hover {
+	text-decoration: none;
+	color: white;
+	background-color: #81979065;
